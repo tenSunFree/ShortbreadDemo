@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#8f4f06</color>
+    <color name="colorAccent">#8f4f06</color>
+
+    <!-- 透明 -->
+    <color name="vifrification">#00000000</color>
+</resources>

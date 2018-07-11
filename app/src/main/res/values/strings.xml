@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShortbreadDemo</string>
+    <string name="label_books">Books</string>
+    <string name="label_twn">繁體中文版</string>
+    <string name="label_jpn">日文版</string>
+    <string name="label_usa">英文版</string>
+    <string name="content_jpn">選択した言語は日本語です</string>
+    <string name="content_twn">您選擇的語言是繁體中文版</string>
+    <string name="content_usa">The language you choose is in English</string>
+    <string name="content2_jpn">右下のボタンをクリックして開始します</string>
+    <string name="content2_twn">點擊右下方按鈕開始</string>
+    <string name="content2_usa">Click the bottom right button to start</string>
+    <string name="content3_jpn">スタート</string>
+    <string name="content3_twn">開始</string>
+    <string name="content3_usa">Start</string>
+</resources>
